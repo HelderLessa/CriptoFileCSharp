@@ -1,0 +1,10 @@
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\bin\Debug\CriptoFile.exe.config
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\bin\Debug\CriptoFile.exe
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\bin\Debug\CriptoFile.pdb
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.AssemblyReference.cache
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.Form1.resources
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.Properties.Resources.resources
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.GenerateResource.cache
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.CoreCompileInputs.cache
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.exe
+C:\Helder\TI\cSharp\cursoGabriel\CriptoFile\CriptoFile\obj\Debug\CriptoFile.pdb
